@@ -1,0 +1,4 @@
+return {
+	Events = {},
+	Functions = {},
+}

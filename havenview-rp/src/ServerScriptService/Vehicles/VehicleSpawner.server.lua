@@ -1,0 +1,1 @@
+print("Vehicle spawner loaded")
